@@ -1,0 +1,20 @@
+#wrapper {
+	width:80%;
+	margin:0 auto;
+	text-align:center;
+}
+
+form {
+	display: inline-block;
+	margin:10px;
+}
+	
+.delete {
+	background-color:#990000;
+	color:white;
+	padding:10px;
+}
+
+.no {
+	padding:10px;
+}

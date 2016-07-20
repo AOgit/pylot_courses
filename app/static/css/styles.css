@@ -1,0 +1,28 @@
+#wrapper{
+	width:90%;
+	margin:0 auto;
+	padding-left:40px;
+}
+
+.name{
+	display: inline;
+}
+
+table{
+	border: 1px solid black;
+	border-collapse: : collapse;
+}
+
+table {
+	width:90%;
+	margin-bottom:20px;
+	overflow-x:auto;
+}
+
+thead {
+	background-color: #cccccc;
+}
+
+tbody tr:nth-child(odd) {
+	background-color: #f2f2f2;
+}
